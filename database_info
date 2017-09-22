@@ -1,0 +1,3 @@
+postgres=# CREATE DATABASE konstmax;
+CREATE DATABASE
+postgres=# CREATE USER max  WITH PASSWORD '10121988';
